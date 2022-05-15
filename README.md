@@ -16,6 +16,10 @@ El diseño de las PCB de acondicionamiento y potencia se realizaron utilizando e
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Acondicionamiento.PNG">
 </p>
 
+<p align='center'>
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Potencia.PNG">
+</p>
+
 # Simulación PSIM <a name="id2"></a>
 
 # Resultados <a name="id3"></a>
