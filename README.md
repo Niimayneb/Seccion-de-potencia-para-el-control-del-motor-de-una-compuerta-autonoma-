@@ -60,4 +60,7 @@ A continuacion los modelos 3D
 <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/salida%20drivers%2075%25complementario.png" width="400">
 </p>
 
-
+<p align='center'>
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/PWM%20Salida%20Reostato%202%20Ohms.png" width="400">
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/PWM%20salida%20Reostao%2035Ohms.png" width="400">
+</p>
