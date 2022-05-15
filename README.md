@@ -45,3 +45,10 @@ A continuacion los modelos 3D
 </p>
 
 # Resultados <a name="id3"></a>
+<p align='center'>
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/Salida%20opto%2070%25.png" width="404">
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/Salida%20opto%2070%25complementario.png" width="396">
+</p>
+
+
+
