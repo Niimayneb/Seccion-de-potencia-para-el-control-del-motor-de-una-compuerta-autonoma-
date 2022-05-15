@@ -35,6 +35,13 @@ A continuacion los modelos 3D
 </p>
 
 # Simulación PSIM <a name="id2"></a>
+<p align='center'>
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_C.PNG">
+</p>
 
+<p align='center'>
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_SP.PNG" width="400">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_SN.PNG" width="400">
+</p>
 
 # Resultados <a name="id3"></a>
