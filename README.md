@@ -24,8 +24,8 @@ En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
 
 A continuacion los modelos 3D
 <p align='left'>
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG">
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
 </p>
 # Simulación PSIM <a name="id2"></a>
 
