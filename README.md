@@ -11,7 +11,8 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 - 3 [Resultados](#id3)
 
 # Diseño PCB en PROTEUS <a name="id1"></a>
-El diseño de la PCB se realizo utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) 
+El diseño de las PCB de acondicionamiento y potencia se realizaron utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) versión 8.6.
+![Acondicionamiento](https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Acondicionamiento.PNG)
 # Simulación PSIM <a name="id2"></a>
 
 # Resultados <a name="id3"></a>
