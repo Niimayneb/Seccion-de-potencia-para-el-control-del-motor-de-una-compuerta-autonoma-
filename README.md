@@ -81,7 +81,7 @@ En la siguientes imagenes se muestra una comparacion de la salida del puente com
 <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/salida%20motor%2075%25.png" width="400">
 </p>
 
-
+En la siguiente imagen se muestra una imagen del sistema completo.
 <p align='center'>
-<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/Sistema%20completo.jpeg" width="400">
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/Sistema%20completo.jpeg" width="800">
 </p>
