@@ -66,6 +66,6 @@ A continuacion los modelos 3D
 </p>
 
 <p align='center'>
-<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/salida%20motor%2075%25.png" width="400">
 <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/PWM%20salida%20Motor%20y%20bateria.png" width="400">
+<img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Resultados/salida%20motor%2075%25.png" width="400">
 </p>
