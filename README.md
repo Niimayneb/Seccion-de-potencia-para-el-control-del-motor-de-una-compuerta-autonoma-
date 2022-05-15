@@ -11,7 +11,7 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 - 3 [Resultados](#id3)
 
 # Diseño PCB en PROTEUS <a name="id1"></a>
-
+El diseño de la PCB se realizo utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) 
 # Simulación PSIM <a name="id2"></a>
 
 # Resultados <a name="id3"></a>
