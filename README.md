@@ -35,10 +35,12 @@ A continuacion los modelos 3D
 </p>
 
 # Simulación PSIM <a name="id2"></a>
+La siguiente imagen muestra el esquema para la simulacion en PSIM de funcionamiento del puente completo con un PWM del 70%  
 <p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_C.PNG">
 </p>
 
+Las siguientes dos imagenes muestan la señal de salida del sistema funcionando con el 70% a la izquierda y a la derecha respectivamente.
 <p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_SP.PNG" width="404">
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_SN.PNG" width="396">
