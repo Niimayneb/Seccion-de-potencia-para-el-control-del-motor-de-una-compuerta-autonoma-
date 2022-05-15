@@ -19,8 +19,8 @@ En la placa de acondicionamiento se incorporan los drivers IR2110, los transduct
 
 A continuacion los modelos 3D
 <p align='center'>
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.PNG" width="400">
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D_NC.PNG" width="400">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.PNG" width="420">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D_NC.PNG" width="380">
 </p>
 
 En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
