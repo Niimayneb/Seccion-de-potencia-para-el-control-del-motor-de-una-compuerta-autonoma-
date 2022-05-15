@@ -6,10 +6,12 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 </p>
 
 # **Índice**   
-- 1 [Diseño y funcionamiento de los circuitos](#id1)
-- 2 [Diseño PCB en PROTEUS](#id2)
-- 3 [Simulación PSIM](#id3)
-- 4 [Resultados](#id4)
+- 1 [Diseño PCB en PROTEUS](#id1)
+- 2 [Simulación PSIM](#id2)
+- 3 [Resultados](#id3)
 
-# Diseño y funcionamiento de los circuitos <a name="id1"></a> 
+# Diseño PCB en PROTEUS <a name="id1"></a>
 
+# Simulación PSIM <a name="id2"></a>
+
+# Resultados <a name="id3"></a>
