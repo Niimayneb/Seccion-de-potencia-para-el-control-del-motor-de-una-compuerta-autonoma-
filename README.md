@@ -19,8 +19,8 @@ En la placa de acondicionamiento se incorporan los drivers IR2110, los transduct
 
 A continuacion los modelos 3D
 <p align='center'>
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.PNG" width="420">
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D_NC.PNG" width="380">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.PNG" width="400">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D_NC.PNG" width="400">
 </p>
 
 En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
@@ -30,8 +30,8 @@ En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
 
 A continuacion los modelos 3D
 <p align='center'>
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
-<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D_NC.PNG" width="400">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="410">
+<img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D_NC.PNG" width="390">
 </p>
 
 # Simulación PSIM <a name="id2"></a>
