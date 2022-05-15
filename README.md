@@ -1,6 +1,6 @@
 # Sección de potencia para el control del motor de una compuerta autónoma
 Repositorio de códigos, archivos de diseño y simulaciones del sistema.
-<p align='left'>
+<p align='center'>
     <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.gif" alt="drawing" width="400"/>
     <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.gif" alt="drawing" width="400"/>
 </p>
@@ -23,7 +23,7 @@ En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
 </p>
 
 A continuacion los modelos 3D
-<p align='left'>
+<p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
 </p>
