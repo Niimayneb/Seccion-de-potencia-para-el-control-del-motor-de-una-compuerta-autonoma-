@@ -33,6 +33,8 @@ A continuacion los modelos 3D
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D.PNG" width="400">
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D_NC.PNG" width="400">
 </p>
+
 # Simulación PSIM <a name="id2"></a>
+
 
 # Resultados <a name="id3"></a>
