@@ -17,13 +17,13 @@ En la placa de acondicionamiento se incorporan los tres drivers [IR2110](https:/
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Acondicionamiento.PNG">
 </p>
 
-A continuacion los modelos 3D de la parte de acondicionamiento
+A continuacion se utiliza la herramienta 3D view en PROTEUS para mostrar los modelos 3D de la parte de acondicionamiento
 <p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D.PNG" width="400">
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento_3D_NC.PNG" width="400">
 </p>
 
-En la placa de potencia se muestran los mosfet's con sus respectivos filtros.
+En la placa de potencia se muestran los mosfet's [R6020KNZ1](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/r6020knz1-MOSFET.pdf) que conforman el puente completo, cada uno con sus respectivos filtros.
 <p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Potencia.PNG">
 </p>
