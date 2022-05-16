@@ -1,8 +1,8 @@
 # Sección de potencia para el control del motor de una compuerta autónoma
 Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 <p align='center'>
-    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="400"/>
-    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="400"/>
+    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="500"/>
+    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="500"/>
 </p>
 
 # **Índice**   
@@ -12,7 +12,7 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 - 4 [Resultados](#id3)
 
 # Introducción <a name="id1"></a>
-En este repositiorio se encuentran alojados los documentos que fueron necesarios para el desarrollo y finalizacion del proyecto, el fin del mismo es servir de ayuda para que los estudiantes que trabajen en proyectos similares tengan bases en las cuales comenzar, de la misma forma, cuando terminen su proyecto tambien puedan aportar mojorar o descartar partes del mismo repositorio para crear un producto mejor para la siguiente persona.
+En este repositiorio se encuentran alojados los documentos que fueron necesarios para el desarrollo y finalizacion del proyecto, el fin del mismo es servir de ayuda para que los estudiantes que trabajen en proyectos similares tengan bases en las cuales comenzar.
 
 # Diseño PCB en PROTEUS <a name="id2"></a>
 El diseño de las PCB de acondicionamiento y potencia se realizaron utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) versión 8.6.
