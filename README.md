@@ -12,7 +12,7 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 
 # Diseño PCB en PROTEUS <a name="id1"></a>
 El diseño de las PCB de acondicionamiento y potencia se realizaron utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) versión 8.6.
-En la placa de acondicionamiento se incorporan los drivers IR2110, los transductores de Voltaje y corriente y el dsPIC30f4011 como se muestra en la imagen.
+En la placa de acondicionamiento se incorporan los tres drivers [IR2110](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/Infineon-IR2110-DataSheet-v01_00-EN.pdf), el transductor de Voltaje [LV20-P](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/LV20-P.pdf), el transductor de corriente [CAS 15-NP](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/Cas-Current_Transducer.pdf) y el [dsPIC30f4011](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/dsPIC30F4011.pdf) como se muestra en la imagen.
 <p align='center'>
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/PCB/Acondicionamiento.PNG">
 </p>
