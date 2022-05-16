@@ -6,11 +6,15 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 </p>
 
 # **Índice**   
-- 1 [Diseño PCB en PROTEUS](#id1)
-- 2 [Simulación PSIM](#id2)
-- 3 [Resultados](#id3)
+- 1 [Introducción](#id1)
+- 2 [Diseño PCB en PROTEUS](#id2)
+- 3 [Simulación PSIM](#id3)
+- 4 [Resultados](#id3)
 
-# Diseño PCB en PROTEUS <a name="id1"></a>
+# Introducción <a name="id1"></a>
+En este repositiorio se encuentran alojados los documentos que fueron necesarios para el desarrollo y finalizacion del proyecto, el fin del mismo es servir de ayuda para que los estudiantes que trabajen en proyectos similares tengan bases en las cuales comenzar, de la misma forma, cuando terminen su proyecto tambien puedan aportar mojorar o descartar partes del mismo repositorio para crear un producto mejor para la siguiente persona.
+
+# Diseño PCB en PROTEUS <a name="id2"></a>
 El diseño de las PCB de acondicionamiento y potencia se realizaron utilizando el software ARES de [PROTEUS](https://www.labcenter.com/) versión 8.6.
 En la placa de acondicionamiento se incorporan los tres drivers [IR2110](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/Infineon-IR2110-DataSheet-v01_00-EN.pdf), el transductor de Voltaje [LV20-P](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/LV20-P.pdf), el transductor de corriente [CAS 15-NP](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/Cas-Current_Transducer.pdf) y el [dsPIC30f4011](https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/Datasheet/dsPIC30F4011.pdf) como se muestra en la imagen.
 <p align='center'>
@@ -34,7 +38,7 @@ A continuacion los modelos 3D de la parte de potencia
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia_3D_NC.PNG" width="389">
 </p>
 
-# Simulación PSIM <a name="id2"></a>
+# Simulación PSIM <a name="id3"></a>
 La simulacion de funcionamiento del sistema de puente completo tipo buck se realizó utilizando el sofware [PSIM](https://powersimtech.com/products/psim/capabilities-applications/) versión 9.1.
 
 En la siguiente imagen se muestra el esquema para la simulacion en PSIM de funcionamiento del puente completo.
@@ -48,7 +52,7 @@ Las siguientes dos imagenes muestan la señal de salida del sistema funcionando 
 <img src="https://github.com/Niimayneb/seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PSIM/Im%C3%A1genes/PSIM_SN.PNG" width="396">
 </p>
 
-# Resultados <a name="id3"></a>
+# Resultados <a name="id4"></a>
 En esta seccion se mostraran imagenes de los resultados obtenidos del proyecto con un PWM del 75%.
 
 En las siguientes imagenes se muestran las salidas PWM del PIC para las dos direcciones de movimiento del motor
