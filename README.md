@@ -1,8 +1,8 @@
 # Sección de potencia para el control del motor de una compuerta autónoma
 Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 <p align='center'>
-    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="500"/>
-    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="500"/>
+    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Acondicionamiento%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="450"/>
+    <img src="https://github.com/Niimayneb/Seccion-de-potencia-para-el-control-del-motor-de-una-compuerta-autonoma-/blob/main/PROTEUS/Modelos%203D/Potencia%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" alt="drawing" width="450"/>
 </p>
 
 # **Índice**   
