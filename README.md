@@ -9,7 +9,7 @@ Repositorio de códigos, archivos de diseño y simulaciones del sistema.
 - 1 [Introducción](#id1)
 - 2 [Diseño PCB en PROTEUS](#id2)
 - 3 [Simulación PSIM](#id3)
-- 4 [Resultados](#id3)
+- 4 [Resultados](#id4)
 
 # Introducción <a name="id1"></a>
 En este repositiorio se encuentran alojados los documentos que fueron necesarios para el desarrollo y finalizacion del proyecto, el fin del mismo es servir de ayuda para que los estudiantes que trabajen en proyectos similares tengan bases en las cuales comenzar.
